@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # Requisitos Previos
 
  1.   Tener acceso a su servidor, vps, máquina virtual o local via SSH, en las instalaciones que realizamos para AWS o Google Cloud, hacemos entrega del usuario, la IP del servidor y la clave ssh que puede ser un archivo .ppk o .pem, recuerde almacenarlas en su equipo local.

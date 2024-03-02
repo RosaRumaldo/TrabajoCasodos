@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 # Manual de Instalación
 
 **1.** Acceder a su instancia via SSH.

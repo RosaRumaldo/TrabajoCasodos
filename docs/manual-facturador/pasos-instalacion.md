@@ -1,4 +1,4 @@
-# Pasos de Instalacin
+# Pasos de Instalacion
 
 - Para instalar debe ejecutar el script evitando instalar el SSL, le será consultado en el proceso y deberá ingresar `"n"`.
 

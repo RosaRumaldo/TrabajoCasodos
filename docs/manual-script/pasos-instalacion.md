@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Manual de Instalación
 
 **1.** Acceder a su instancia via SSH.
@@ -56,7 +60,7 @@ configurar clave SSH para actualización automática? (requiere acceso a https:/
 
 ![KEYS](./img/puntoI.png)
 
-**8.** Finalizado el script y dependiendo de sus selecciones anteriores, se le entregará varios datos que debe guardar, como;
+**8.** Finalizado el script y dependiendo de sus selecciones anteriores, se le entregará varios datos que debe guardar, como:
 - Usuario administrador
 - Contraseña para usuario administrador
 - Url del proyecto
